@@ -5,6 +5,7 @@
         data is also available at kaggle https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
         
 (c) Beside real or fake we can consider to male, female.
+
 (d) Keras.preprocessing and numpy
-(e) data is available here in this folder.
-        
+
+(e) data is available in https://drive.google.com/drive/folders/1xw5OZvMxEgpwr5GA003bywF3dmHRKdq0?usp=sharing
